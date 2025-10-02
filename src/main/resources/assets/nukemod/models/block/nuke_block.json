@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "up": "nukemod:block/nuke_top",
+    "down": "nukemod:block/nuke_bottom",
+    "north": "nukemod:block/nuke_side",
+    "south": "nukemod:block/nuke_side",
+    "east": "nukemod:block/nuke_side",
+    "west": "nukemod:block/nuke_side",
+    "particle": "nukemod:block/nuke_side"
+  }
+}

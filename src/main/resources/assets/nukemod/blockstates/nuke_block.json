@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "nukemod:block/nuke_block"
+    }
+  }
+}

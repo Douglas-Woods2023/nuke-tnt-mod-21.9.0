@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SSS",
+    "SSS"
+  ],
+  "key": {
+    "S": "minecraft:spider_eye"
+  },
+  "result": {
+    "id": "nukemod:nuke_item",
+    "count": 1
+  }
+}
